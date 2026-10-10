@@ -1,0 +1,6 @@
+{
+  "thread_count": 5,
+  "max_proxy_attempts": 3,
+  "enable_proxy_precheck": true,
+  "proxy_list_text": ""
+}
